@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm advik</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="advik" width="400" src="https://www.bing.com/th/id/OGC.e1f3413bf5036045713341394f617225?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1162077%2fscreenshots%2f3848914%2fprogrammer.gif&ehk=hANs%2bktW5sQlvyjDispeFdwwb0b3PsyP%2biI7wi0JgWw%3d"/>
+<img align="Top" alt="advik" width="400" src="https://www.bing.com/th/id/OGC.e1f3413bf5036045713341394f617225?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1162077%2fscreenshots%2f3848914%2fprogrammer.gif&ehk=hANs%2bktW5sQlvyjDispeFdwwb0b3PsyP%2biI7wi0JgWw%3d"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
