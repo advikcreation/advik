@@ -11,6 +11,13 @@
 
 <br/>  
 
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=advikdevops&&style=flat-square" align="center" />
+</div>  
+  
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -111,12 +118,7 @@
 
   
 
-<br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=advikdevops&&style=flat-square" align="center" />
-</div>  
-  
 
 <br/>  
 
