@@ -16,7 +16,15 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=advikdevops&&style=flat-square" align="center" />
 </div>  
-  
+
+
+
+https://github-stats-alpha.vercel.app/api?username=advikdevops&cc=000&tc=fff&ic=fff&bc=000
+
+Where cc = Card Color
+      tc = Text Color
+      ic = Icon Color
+      bc = Border Color  
 
 
 ## My Skill Set  
@@ -110,8 +118,12 @@
 <br/>  
 
 
+
+
+
+
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=advikdevops&hide_border=true&layout=compact" align="center" /></div>  
+![advikdevops's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=advikdevops&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 <br/>  
 
