@@ -19,12 +19,7 @@
 
 
 
-https://github-stats-alpha.vercel.app/api?username=advikdevops&cc=000&tc=fff&ic=fff&bc=000
 
-Where cc = Card Color
-      tc = Text Color
-      ic = Icon Color
-      bc = Border Color  
 
 
 ## My Skill Set  
@@ -102,22 +97,15 @@ Where cc = Card Color
 
 
 ## Connect with me  
-<div align="center">
-<a href="https://github.com/advikdevops" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/advikdevops" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/officials_advik" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
+<h1 align="center">
+<a href="https://linkedin.com/in/advikdevops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="advikdevops" height="40" width="40" /></a> 
+<a href="https://instagram.com/officials_advik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="officials_advik" height="40" width="40" /></a>
+<a href="https://github.com/advikdevops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="officials_advik" height="40" width="40" /></a>
+  <a href="https://www.youtube.com/channel/UCG7FelRjPwJ92oIkTJggtsA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="advik_devops" height="30" width="40" /></a>
+</h1>
   
 
 <br/>  
-
-
 
 
 
@@ -125,14 +113,10 @@ Where cc = Card Color
 ## Github Stats  
 ![advikdevops's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=advikdevops&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
-<br/>  
-
-
-  
 
 
 
-<br/>  
+
 
 <div align="center"></div>
 <br />
